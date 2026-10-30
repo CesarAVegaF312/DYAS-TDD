@@ -624,4 +624,22 @@ Esto fortalece la **calidad del software**, mejora la **trazabilidad de los requ
 # Recursos recomendados
 - *The Art of Software Testing* – Myers, 2011.  
 - *Testing Computer Software* – Kaner, 1999.  
-- *Effective Unit Testing* – Lasse Koskela, 2013.  
+- *Effective Unit Testing* – Lasse Koskela, 2013.
+
+---
+
+## Créditos y uso académico
+
+**Autor:** César Augusto Vega Fernández  
+**Curso:** Diseño y Arquitectura de Software  
+**Programa:** Ingeniería Informática – Universidad de La Sabana
+
+### Licencia de uso
+
+Este material se distribuye bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). El texto completo está en el archivo [`LICENSE`](LICENSE).
+
+Puedes **usar, adaptar o compartir** este contenido con fines educativos, siempre que:
+
+1. Se reconozca la autoría del profesor **César Augusto Vega Fernández**.
+2. No se utilice con fines comerciales.
+3. Las obras derivadas se distribuyan bajo la misma licencia.
